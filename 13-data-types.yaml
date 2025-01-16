@@ -10,7 +10,7 @@
     - ansible
     - AWS
     live: true # boolean
-    tools: #map, {} this means map
+    tools: #map, {} this means map or dictionary
       ci: jenkins
       cloud: aws
       containerization: docker
